@@ -1,0 +1,17 @@
+# Never commit raw data
+*.csv
+data/
+raw/
+
+# Windows / Mac OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
